@@ -1,0 +1,5 @@
+name: msds603
+channels:
+  - defaults
+prefix: /anaconda3/envs/msds603
+
